@@ -1,4 +1,4 @@
-"""Demonstrate common Python data types and simple operations."""
+#""Demonstrate common Python data types and simple""
 
 
 def demo() -> None:
